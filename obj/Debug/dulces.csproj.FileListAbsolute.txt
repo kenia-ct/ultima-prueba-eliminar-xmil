@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\L.H.G.F\dulces\bin\Debug\dulces.exe.config
+C:\Users\user\Desktop\L.H.G.F\dulces\bin\Debug\dulces.exe
+C:\Users\user\Desktop\L.H.G.F\dulces\bin\Debug\dulces.pdb
+C:\Users\user\Desktop\L.H.G.F\dulces\obj\Debug\dulces.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\L.H.G.F\dulces\obj\Debug\dulces.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\L.H.G.F\dulces\obj\Debug\dulces.exe
+C:\Users\user\Desktop\L.H.G.F\dulces\obj\Debug\dulces.pdb
